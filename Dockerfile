@@ -1,4 +1,4 @@
-FROM 1and1internet/ubuntu-16-apache-php-5.6:latest
+FROM 1and1internet/ubuntu-16-apache-php-7.1:latest
 MAINTAINER james.poole@1and1.co.uk
 ARG DEBIAN_FRONTEND=noninteractive
 COPY files /
