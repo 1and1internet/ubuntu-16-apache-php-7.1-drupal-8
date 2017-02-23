@@ -13,3 +13,4 @@ https://www.drupal.org/docs/7/system-requirements/php
 Active support until 1 Dec 2018.
 Security support until 1 Dec 2019.
 
+http://php.net/supported-versions.php
